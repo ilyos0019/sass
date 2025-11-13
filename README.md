@@ -1,1 +1,1 @@
-# sass
+$style-bg-color
